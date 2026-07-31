@@ -1,5 +1,8 @@
 ## Hi there 👋
+I'm an Astrophysics graduate from the University of Portsmouth, transitioning into Data Analytics.
+During my degree I worked with astronomical datasets, writing Python pipelines to extract, clean and analyse galaxy catalogue data which gave me a solid foundation in working with messy large scale data before i opened a spreadsheet. 
 
+I am currently building my practical skills in SQL, Python, Excel and Power BI. 
 <!--
 **avelizcastro/avelizcastro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

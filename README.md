@@ -1,10 +1,8 @@
 # Hi, I'm Alan 👋
 
-I'm an Astrophysics graduate from the University of Portsmouth, transitioning into Data Analytics. I'm drawn to roles where rigorous thinking and data-driven problem solving intersect.
-
-During my degree I worked with real astronomical datasets, writing Python pipelines to extract, clean, and analyse galaxy catalogue data which gave me a solid foundation in working with messy, large-scale data.
-
-I'm currently building practical skills in SQL, Python, Excel, and Power BI, with a focus on producing clean, well-documented analysis that tells a clear story.
+I recently graduated with a BSc in Physics with Astrophysics from the University of Portsmouth and am transitioning into Data Analytics.
+Throughout my degree I worked with large astronomical datasets, developing Python pipelines to clean analyse and visualise data.
+I am expanding my skills in SQL, Excel and Power BI by building practical data analysis projects and dashboards. 
 
 ---
 

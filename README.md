@@ -22,9 +22,9 @@ I am expanding my skills in SQL, Excel and Power BI by building practical data a
 
 | Project | Description | Tools |
 |---|---|---|
-| 🔭 *Coming soon* | SQL exploratory analysis | SQL, MySQL |
-| 📊 *Coming soon* | Data cleaning & visualisation | Python, Pandas, Matplotlib |
-| 📈 *Coming soon* | Dashboard project | Power BI / Excel |
+| 🔭 ** | SQL exploratory analysis | SQL, MySQL |
+| 📊 ** | Data cleaning & visualisation | Python, Pandas, Matplotlib |
+| 📈 ** | Dashboard project | Power BI / Excel |
 
 *(Projects being added as completed — check back soon)*
 
